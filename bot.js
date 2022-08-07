@@ -33,14 +33,14 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['94705208758',''] //owner number +27634090203
+global.wame = ['94705208758'] 
+global.pemilik = ['94705208758'] //owner number +27634090203
+global.premium = ['94705208758'] //premium number +27634090203
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
+global.footer = 'BP BOT SL'
+global.botnma = 'BP BOT SL' //bot name
+global.botname = 'BP BOT SL'
 global.ownernma = 'Drips' //owner name
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇱🇰'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
